@@ -38,6 +38,12 @@ img {
     default;
 }
 
+.upy {
+    vertical-align: middle;
+    display: inline;
+    padding: 0 2px 1px 4px;
+}
+
 /* 文章页背景 */
 .layout_post > #post {
     /* 以下代表白色透明度为0.3 */
